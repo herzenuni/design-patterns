@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 from __future__ import annotations
 from abc import ABC, abstractmethod
 
@@ -119,10 +113,3 @@ if __name__ == "__main__":
         receiver, "Send email", "Save report"))
 
     invoker.do_something_important()
-
-
-# In[ ]:
-
-
-
-
